@@ -1,0 +1,9 @@
+@font-face {
+    font-family: 'CoustardBlack';
+    src: url('fonts/CoustardBlack.eot');
+    src: url('fonts/CoustardBlack.eot') format('embedded-opentype'),
+         url('fonts/CoustardBlack.woff2') format('woff2'),
+         url('fonts/CoustardBlack.woff') format('woff'),
+         url('fonts/CoustardBlack.ttf') format('truetype'),
+         url('fonts/CoustardBlack.svg#CoustardBlack') format('svg');
+}
